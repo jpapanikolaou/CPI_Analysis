@@ -11,7 +11,7 @@ import pandas as pd
 #%%
 
 url = 'https://api.bls.gov/publicAPI/v2/timeseries/data/'
-seriesids = ['CUUR0000SA0']
+seriesids = ['CUSR0000SA0L12E']
 
 #%%
 def get_bls_data(url: str, seriesids: List[str], startyear: int, endyear: int):

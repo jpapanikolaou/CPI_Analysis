@@ -3,3 +3,4 @@ fredapi==0.5.2
 pandas==2.2.3
 prettytable==3.13.0
 Requests==2.32.3
+CUSR0000SA0L12E
